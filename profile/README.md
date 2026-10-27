@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://shiplean.app">shiplean.app</a> ·
   <a href="https://github.com/ShipLean/ShipLean">ShipLean</a> ·
-  <a href="https://github.com/ShipLean/docs">Docs</a>
+  <a href="https://docs.shiplean.app">Docs</a>
 </p>
 
 ShipLean is a free, open-source planning tool you host yourself. Rank a backlog, run a Kanban board, plan sprints or mix them, and see which sprint each backlog item is likely to land in. Connect Claude Code, Cursor or Claude Desktop over MCP and your agents can plan, pick up and report work on the same backlog, with their name on every change they make.
