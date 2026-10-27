@@ -31,4 +31,4 @@ ShipLean is a free, open-source planning tool you host yourself. Rank a backlog,
 
 ### Status
 
-ShipLean is not released yet. Watch [ShipLean/ShipLean](https://github.com/ShipLean/ShipLean) to hear when it is ready to install.
+ShipLean is free to install today. The [docs](https://docs.shiplean.app) show how to run it on your own server, and [ShipLean/ShipLean](https://github.com/ShipLean/ShipLean) has the source and each change as it lands.
